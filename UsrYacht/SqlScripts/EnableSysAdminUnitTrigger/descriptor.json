@@ -1,0 +1,11 @@
+﻿{
+  "SqlScript": {
+    "UId": "018bba88-ba88-ec5c-7c46-b05f5e5ba4ff",
+    "Name": "EnableSysAdminUnitTrigger",
+    "DBEngineType": 0,
+    "InstallType": 2,
+    "ModifiedOnUtc": "\/Date(1780534796000)\/",
+    "BackwardCompatibilityConfirmed": false,
+    "DependsOn": []
+  }
+}
