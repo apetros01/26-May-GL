@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="AddonConfig.Rules.4a204dd6-4261-0064-9ae6-90107a6f7294.Caption" Value="ChildRule-f62ac901-8c13-818e-5b06-71b3d0c07c80-PopulateValue" />
+			<Item Name="AddonConfig.Rules.caba5a7a-3fcd-7ef7-8ac6-a32bf4f993ae.Caption" Value="ChildRule-f62ac901-8c13-818e-5b06-71b3d0c07c80-ClearValue" />
+			<Item Name="AddonConfig.Rules.d34f5503-f3dd-4909-821a-9b8502d88f33.Caption" Value="Set values: Ticket price" />
+			<Item Name="AddonConfig.Rules.f62ac901-8c13-818e-5b06-71b3d0c07c80.Caption" Value="Apply filter: City" />
+			<Item Name="Caption" Value="Yachts (Business rules)" />
+		</Items>
+	</Group>
+</Resources>
